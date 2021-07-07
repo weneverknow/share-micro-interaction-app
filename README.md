@@ -7,3 +7,13 @@
 <h2>Inspiration</h2>
 <b>UI Design : </b><br/>
 YesYou Studio<br/>
+
+
+https://user-images.githubusercontent.com/4042994/124708270-4129b080-df24-11eb-8871-4bc6e64f2e68.mp4
+
+
+<h2>Live Preview</h2>
+
+
+https://user-images.githubusercontent.com/4042994/124707607-40444f00-df23-11eb-90f8-cb03fdb1d261.mp4
+
